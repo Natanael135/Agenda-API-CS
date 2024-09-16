@@ -1,7 +1,8 @@
-# Documentação da API: ContatoController
+# Documentação da API: Agenda de Contatos
 
 ## Descrição
-O `ContatoController` é um controlador ASP.NET Core responsável por gerenciar operações CRUD (Criar, Ler, Atualizar, Deletar) para a entidade `Contato`. Ele utiliza um banco de dados local chamado **agenda** e interage com uma tabela chamada **contato**.
+O `Contato` é um controlador ASP.NET Core responsável por gerenciar operações CRUD (Criar, Ler, Atualizar, Deletar) para a entidade `Contato`. Ele utiliza um banco de dados local chamado **agenda** e interage com uma tabela chamada **contato**.
+Você pode fazer todas as operações de um CRUD com seus contatos na agenda.
 
 ## Contexto de Banco de Dados
 

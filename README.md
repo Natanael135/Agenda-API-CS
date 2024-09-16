@@ -1,4 +1,4 @@
-# Documentação da API: Agenda de Contatos
+# API: Agenda de Contatos
 
 ## Descrição
 O `Contato` é um controlador ASP.NET Core responsável por gerenciar operações CRUD (Criar, Ler, Atualizar, Deletar) para a entidade `Contato`. Ele utiliza um banco de dados local chamado **agenda** e interage com uma tabela chamada **contato**.
